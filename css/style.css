@@ -1,4 +1,4 @@
-.header-title{
+h1{
 	color: red;
 }
 p.text-bottom{
@@ -7,7 +7,7 @@ p.text-bottom{
 li a{
 	color: indigo;
 }
-page p{
+p {
 	color: hotpink;
 }
 span{
@@ -33,6 +33,9 @@ ul li{
 }
 .politik-body{
 	color: goldenrod;
+}
+h3 {
+	color: rosybrown;
 }
 p.big-red{
 	color: red;
